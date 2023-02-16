@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-**beatrizaantunes/beatrizaantunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I'm Bea, welcome to my Github Profile!
 
 - 🔭 I’m currently working on Product Management and Product Design
 - 🌱 I’m currently learning PM, PD and Git
